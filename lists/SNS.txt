@@ -1,0 +1,4 @@
+(\.|^)youtube\.com$
+(\.|^)bilibili\.com$
+(\.|^)facebook\.com$
+(\.|^)twitter\.com$
